@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 94EA-BDEB
+
+ Directory of C:\Users\abhit\OneDrive\Desktop\MyProject
+
+09-02-2023  16:05    <DIR>          .
+03-02-2023  12:31    <DIR>          ..
+09-02-2023  16:05                 0 test3.txt
+09-02-2023  16:04                 0 Text.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  104,532,971,520 bytes free
